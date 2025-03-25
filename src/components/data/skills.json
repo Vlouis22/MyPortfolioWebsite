@@ -1,0 +1,46 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "python.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "javascript.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "react.png"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "sql.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "java.png"
+    },
+    {
+        "title": "Kotlin",
+        "imageSrc": "kotlin.png"
+    },
+    {
+        "title": "C",
+        "imageSrc": "c.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "cpp.svg"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "css.png"
+    },
+    {
+        "title": "Git",
+        "imageSrc": "git.png"
+    }
+]

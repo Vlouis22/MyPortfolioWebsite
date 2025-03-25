@@ -1,0 +1,42 @@
+[
+    {
+        "role": "Software Engineer intern",
+        "organization": "Microsoft",
+        "startDate": "May, 2024",
+        "endDate": "Aug, 2024",
+        "location": "Atlanta, GA",
+        "experiences": [
+            "Integrated a push notification system for Microsoft Authenticator, scaling from 400,000 to over a million users",
+            "Developed high- and low-level design documents to ensure the push notification feature was robust and scalable",
+            "Conducted functional, unit, performance, and end-to-end testing to ensure the push notification feature's reliability",
+            "Implemented telemetry to monitor performance and user engagement metrics"
+        ],
+        "imageSrc": "../../assets/history/microsoft.png"
+    },
+    {
+        "role": "Technical Consultant",
+        "organization": "Code Differently",
+        "startDate": "Jun, 2023",
+        "endDate": "Aug, 2023",
+        "location": "Wilmington, DE",
+        "experiences": [
+            "Led 13 high school students in a 3-month web development program, providing mentorship and code reviews",
+            "Designed and deployed front-end and back-end applications using JavaScript, React, and Python",
+            "Strengthened software development expertise through hands-on projects and workshops"
+        ],
+        "imageSrc": "../../assets/history/codedifferently.png"
+    },
+    {
+        "role": "Computer Science Tutor",
+        "organization": "Delaware State University",
+        "startDate": "Aug, 2023",
+        "endDate": "Present",
+        "location": "Dover, DE",
+        "experiences": [
+            "Improved coding skills for 100+ students per semester in Python, Java, and Data Structures & Algorithms",
+            "Led 30+ weekly small group tutoring sessions (1-6), fostering academic success in a supportive environment",
+            "Guided students in developing critical problem-solving skills through algorithmic thinking and debugging strategies"
+        ],
+        "imageSrc": "../../assets/history/codedifferently.jpg"
+    }
+]
