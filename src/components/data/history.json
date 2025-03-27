@@ -11,7 +11,7 @@
             "Conducted functional, unit, performance, and end-to-end testing to ensure the push notification feature's reliability",
             "Implemented telemetry to monitor performance and user engagement metrics"
         ],
-        "imageSrc": "../../assets/history/microsoft.png"
+        "imageSrc": "microsoft.png"
     },
     {
         "role": "Technical Consultant",
@@ -24,7 +24,7 @@
             "Designed and deployed front-end and back-end applications using JavaScript, React, and Python",
             "Strengthened software development expertise through hands-on projects and workshops"
         ],
-        "imageSrc": "../../assets/history/codedifferently.png"
+        "imageSrc": "codedifferently.png"
     },
     {
         "role": "Computer Science Tutor",
@@ -37,6 +37,6 @@
             "Led 30+ weekly small group tutoring sessions (1-6), fostering academic success in a supportive environment",
             "Guided students in developing critical problem-solving skills through algorithmic thinking and debugging strategies"
         ],
-        "imageSrc": "../../assets/history/codedifferently.jpg"
+        "imageSrc": "dsu.jpg"
     }
 ]

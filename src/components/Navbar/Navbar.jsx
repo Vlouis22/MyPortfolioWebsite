@@ -10,7 +10,7 @@ export default function Navbar(){
   return (
     <nav className={styles.navbar}>
       <a className={styles.title} href="/">
-        Portfolio
+        Valery Louis
       </a>
       <div className={styles.menu}>
         <img
@@ -35,6 +35,9 @@ export default function Navbar(){
           </li>
           <li>
             <a href="#projects">Projects</a>
+          </li>
+          <li>
+            <a href="#resume">Resume</a>
           </li>
           <li>
             <a href="#contact">Contact</a>

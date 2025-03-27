@@ -5,7 +5,7 @@
     },
     {
         "title": "JavaScript",
-        "imageSrc": "javascript.png"
+        "imageSrc": "javascript.webp"
     },
     {
         "title": "React",
@@ -13,7 +13,7 @@
     },
     {
         "title": "SQL",
-        "imageSrc": "sql.png"
+        "imageSrc": "sql.webp"
     },
     {
         "title": "Java",
@@ -25,7 +25,7 @@
     },
     {
         "title": "C",
-        "imageSrc": "c.png"
+        "imageSrc": "c.jpg"
     },
     {
         "title": "C++",
@@ -41,6 +41,6 @@
     },
     {
         "title": "Git",
-        "imageSrc": "git.png"
+        "imageSrc": "git.webp"
     }
 ]

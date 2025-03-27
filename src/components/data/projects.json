@@ -1,0 +1,21 @@
+[
+    {
+        "name": "HEIM Church Website",
+        "imageSrc": "https://i.postimg.cc/GmTLVGyq/Screenshot-2025-03-27-at-5-17-58-PM.png",
+        "description": "Developed the official HEIM Church website, integrating dynamic features for a seamless user experience",
+        "link": "https://github.com/Vlouis22/HeimChurch"
+
+    },
+    {
+        "name": "EcoRunner",
+        "imageSrc": "https://preview.redd.it/qijt5mryu9c91.png?width=1377&format=png&auto=webp&s=923fed09ace2be6f65f9fb99ac75ab69466fafba",
+        "description": "Developed a Unity-based game with C#, securing 2nd place in a competitive hackathon",
+        "link": "https://github.com/MylesUnlimited/Hackathon-Project"
+    },
+    {
+        "name": "Automated Job Recommendation System",
+        "imageSrc": "https://miro.medium.com/v2/resize:fit:982/1*K8p9bsZJoZ9iFp_dLn12hw.png",
+        "description": "Developed an AI-powered job recommendation system with automated scraping and personalized recommendations",
+        "link": "https://github.com/LifeIsPeace/AIJobAggregatorAndMatcher"
+    }
+]
