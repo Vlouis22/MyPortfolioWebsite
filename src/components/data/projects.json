@@ -1,21 +1,38 @@
 [
     {
-        "name": "HEIM Church Website",
+        "name": "HEIM Church Website (2025)",
         "imageSrc": "https://i.postimg.cc/GmTLVGyq/Screenshot-2025-03-27-at-5-17-58-PM.png",
-        "description": "Developed the official HEIM Church website, integrating dynamic features for a seamless user experience",
+        "description": "Designed and implemented the official HEIM Church website, driving engagement with 100+ weekly users",
         "link": "https://github.com/Vlouis22/HeimChurch"
-
     },
     {
-        "name": "EcoRunner",
-        "imageSrc": "https://preview.redd.it/qijt5mryu9c91.png?width=1377&format=png&auto=webp&s=923fed09ace2be6f65f9fb99ac75ab69466fafba",
-        "description": "Developed a Unity-based game with C#, securing 2nd place in a competitive hackathon",
-        "link": "https://github.com/MylesUnlimited/Hackathon-Project"
+        "name": "Hornet Helper (2025)",
+        "imageSrc": "https://i.postimg.cc/Zqs3Ry6b/studywithbuddyhomepage.png",
+        "description": "Secured 1st place in a hackathon with a web app that helps students find study partners, get AI resource recommendations, and more",
+        "link": "https://github.com/murayeeto/HornetHelper/tree/main"
     },
     {
-        "name": "Automated Job Recommendation System",
+        "name": "P2P File Synchronization (2025)",
+        "imageSrc": "https://images.wondershare.com/edrawmax/templates/network-diagram-for-p2p.png",
+        "description": "Led a team of 5 in developing a peer-to-peer file synchronization system using Python",
+        "link": "https://github.com/joewil08/p2p-file-synchronization-group-3"
+    },
+    {
+        "name": "Automated Job Recommendation System (2025)",
         "imageSrc": "https://miro.medium.com/v2/resize:fit:982/1*K8p9bsZJoZ9iFp_dLn12hw.png",
         "description": "Developed an AI-powered job recommendation system with automated scraping and personalized recommendations",
         "link": "https://github.com/LifeIsPeace/AIJobAggregatorAndMatcher"
+    },
+    {
+        "name": "Math Jeorpardy (2024)",
+        "imageSrc": "https://ecdn.teacherspayteachers.com/thumbitem/5th-Grade-Math-Review-Jeopardy-PowerPoint-Game-Common-Core-Standards-1178292-1656583758/original-1178292-2.jpg",
+        "description": "Developed a Java-based Jeopardy game with a focus on math concepts, enhancing learning through gamification",
+        "link": "https://github.com/853ness/JeopardyGame/pulse"
+    },
+    {
+        "name": "EcoRunner (2022)",
+        "imageSrc": "https://preview.redd.it/qijt5mryu9c91.png?width=1377&format=png&auto=webp&s=923fed09ace2be6f65f9fb99ac75ab69466fafba",
+        "description": "Developed a Unity-based 2d runner game with C#, securing 2nd place in a competitive hackathon",
+        "link": "https://github.com/MylesUnlimited/Hackathon-Project"
     }
 ]

@@ -38,6 +38,10 @@
   text-decoration: none;
 }
 
+.menuItems a:hover {
+  color: var(--color-temp);
+}
+
 @media screen and (max-width: 830px) {
   .navbar {
     flex-direction: column;

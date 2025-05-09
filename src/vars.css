@@ -1,8 +1,10 @@
 :root{
     /* Colors */
     --color-text: #fff;
-    --color-primary: #576cbc;
-    --color-secondary: #19376d;
+    --color-temp: #576cbc;
+    --color-temp2: #19376d;
+    --color-primary: black;
+    --color-secondary: white;
     --color-dark: #0b2447;
     --color-bg: #04152d;
 

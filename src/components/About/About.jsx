@@ -1,5 +1,5 @@
 import React from 'react'
-import aboutImage from "../../assets/about/aboutImage.png"
+import aboutImage from "../../assets/about/aboutImage2.png"
 import cursorIcon from "../../assets/about/cursorIcon.png"
 import serverIcon from "../../assets/about/serverIcon.png"
 import styles from "./About.module.css"
