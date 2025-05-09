@@ -4,12 +4,12 @@ import closeIcon from "../../assets/nav/closeIcon.png"
 import menuIcon from "../../assets/nav/menuIcon.png"
 
 
-export default function Navbar(){
+export default function Navbar() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
+      <a className={styles.title} href="#home">
         Valery Louis
       </a>
       <div className={styles.menu}>

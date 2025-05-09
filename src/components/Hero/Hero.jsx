@@ -4,7 +4,7 @@ import heroImg from "../../assets/hero/me.png"
 
 export default function Hero() {
   return (
-    <section className={styles.container}>
+    <section className={styles.container} id="home">
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Valery</h1>
         <p className={styles.description}>
