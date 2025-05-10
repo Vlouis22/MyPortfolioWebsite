@@ -1,9 +1,9 @@
 import React from 'react'
 import styles from './Contact.module.css'
 
-import emailIcon from "/Users/valerylouis/Documents/PortfolioWebsite/portfolio/src/assets/contact/emailIcon.png"
-import linkedinIcon from '/Users/valerylouis/Documents/PortfolioWebsite/portfolio/src/assets/contact/githubIcon.png'
-import githubIcon from '/Users/valerylouis/Documents/PortfolioWebsite/portfolio/src/assets/contact/linkedinIcon.png'
+import emailIcon from "../../assets/contact/emailIcon.png"
+import linkedinIcon from "../../assets/contact/linkedinIcon.png"
+import githubIcon from "../../assets/contact/githubIcon.png"
 
 export default function Contact() {
   return (
