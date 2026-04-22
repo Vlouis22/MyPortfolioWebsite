@@ -1,0 +1,34 @@
+---
+title: "Dr. House"
+slug: "clinical-text-agent"
+year: 2026
+role: "AI / Backend Developer"
+summary: "Built a multimodal AI backend that organizes clinical inputs into a structured patient profile for reasoning and explainable diagnosis."
+tech: ["Python", "Whisper", "ClinicalBERT", "Medical T5", "OCR", "Pydantic", "Git/Github"]
+thumbnail: "/images/projects/clinical-text-agent/thumb.svg"
+featured: false
+repoUrl: "https://github.com/Vlouis22/inbreResearch"
+order: 5
+client: "Research project"
+timeline: "Mar 2026"
+---
+
+## Overview
+
+Dr. House is a research project focused on building an AI assisted clinical reasoning system that helps organize and interpret multiple forms of patient data in one workflow. Instead of treating symptoms, notes, lab results, medical images, and patient history as isolated inputs, the project brings them together into a single structured patient profile that can support faster and more informed clinical decision making.
+
+My work focused on the backend systems that make this possible. I built the pipeline that ingests clinical text, patient audio, health records, and laboratory data, processes each source with task specific models, and converts the results into a consistent structured profile that downstream reasoning components can use.
+
+![Dr. House architecture concept](/images/projects/clinical-text-agent/thumb.svg)
+
+## What I built
+
+I developed a modular backend architecture for multimodal clinical intake and information extraction. The system supports transcription for patient voice input, medical entity extraction from notes and records, summarization of clinical context, lab report parsing, normalization of results, abnormality detection, and schema based output generation. I also designed the fusion layer that combines information from different sources into a unified patient profile, creating the foundation for reasoning and explainable diagnosis in the larger Dr. House system.
+
+<Callout title="Why it mattered">
+What made this project valuable was that it went beyond calling models in isolation. The real challenge was designing a reliable backend that could coordinate different AI components, handle diverse medical inputs, preserve clinical structure, and produce outputs that were useful for a reasoning agent rather than just technically correct on their own.
+</Callout>
+
+## Results
+
+This project deepened my experience in applied AI backend engineering, multimodal systems design, structured data pipelines, and clinical information modeling. It represents my contribution to a broader vision for AI assisted healthcare tools that can help clinicians review complex patient information more efficiently and understand why certain diagnostic suggestions are being made.

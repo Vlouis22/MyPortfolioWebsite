@@ -1,0 +1,41 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#07131F"/>
+  <rect width="1600" height="1200" fill="url(#bg)"/>
+  <circle cx="1180" cy="250" r="320" fill="url(#glow)" opacity="0.65"/>
+  <circle cx="360" cy="910" r="260" fill="#F97316" opacity="0.14"/>
+  <circle cx="430" cy="510" r="235" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <circle cx="430" cy="510" r="175" stroke="rgba(255,255,255,0.14)" stroke-width="2"/>
+  <path d="M198 510H662" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <path d="M430 278V742" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <path d="M240 410C298 448 362 468 430 468C498 468 562 448 620 410" stroke="rgba(255,255,255,0.16)" stroke-width="2"/>
+  <path d="M240 610C298 572 362 552 430 552C498 552 562 572 620 610" stroke="rgba(255,255,255,0.16)" stroke-width="2"/>
+  <circle cx="510" cy="462" r="10" fill="#FFB347"/>
+  <circle cx="402" cy="560" r="10" fill="#FB7185"/>
+  <circle cx="314" cy="468" r="10" fill="#F97316"/>
+  <rect x="760" y="184" width="594" height="774" rx="34" fill="rgba(8,20,34,0.7)" stroke="rgba(255,255,255,0.18)" stroke-width="2"/>
+  <rect x="808" y="244" width="252" height="18" rx="9" fill="rgba(255,255,255,0.22)"/>
+  <rect x="808" y="288" width="398" height="92" rx="24" fill="rgba(15,23,42,0.86)" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+  <rect x="834" y="320" width="170" height="16" rx="8" fill="#F8FAFC"/>
+  <rect x="834" y="350" width="228" height="12" rx="6" fill="rgba(248,250,252,0.54)"/>
+  <rect x="808" y="420" width="250" height="210" rx="28" fill="rgba(255,255,255,0.06)"/>
+  <rect x="1094" y="420" width="212" height="210" rx="28" fill="rgba(255,255,255,0.06)"/>
+  <rect x="840" y="460" width="122" height="12" rx="6" fill="#F97316"/>
+  <rect x="840" y="496" width="168" height="12" rx="6" fill="rgba(248,250,252,0.5)"/>
+  <rect x="1126" y="460" width="104" height="12" rx="6" fill="#38BDF8"/>
+  <rect x="1126" y="496" width="132" height="12" rx="6" fill="rgba(248,250,252,0.5)"/>
+  <rect x="808" y="668" width="498" height="220" rx="28" fill="rgba(255,255,255,0.06)"/>
+  <path d="M852 820C942 742 1034 744 1122 770C1180 786 1228 784 1264 760" stroke="#F97316" stroke-width="8" stroke-linecap="round"/>
+  <path d="M852 784C930 730 1000 718 1064 724" stroke="#38BDF8" stroke-width="8" stroke-linecap="round" opacity="0.85"/>
+  <text x="118" y="1050" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="700">CrisisLens</text>
+  <text x="120" y="1102" fill="rgba(248,250,252,0.72)" font-family="Inter, Arial, sans-serif" font-size="28" letter-spacing="5">LIVE CRISIS INTELLIGENCE</text>
+  <defs>
+    <linearGradient id="bg" x1="160" y1="110" x2="1414" y2="1074" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F2740"/>
+      <stop offset="1" stop-color="#07131F"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 250) rotate(90) scale(320)">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1440" height="1080" viewBox="0 0 1440 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1080" rx="48" fill="#FAFAF7"/>
+  <rect x="112" y="112" width="1216" height="856" rx="40" fill="#FFFFFF" stroke="#E8E6E1" stroke-width="2"/>
+  <rect x="176" y="176" width="1088" height="108" rx="28" fill="#1A1A1A"/>
+  <rect x="176" y="336" width="312" height="500" rx="28" fill="#F3F1EC"/>
+  <rect x="528" y="336" width="736" height="152" rx="28" fill="#FEF3EC"/>
+  <rect x="528" y="520" width="736" height="316" rx="28" fill="#F3F1EC"/>
+  <rect x="588" y="396" width="236" height="18" rx="9" fill="#C2410C"/>
+  <rect x="588" y="562" width="552" height="18" rx="9" fill="#1A1A1A"/>
+  <rect x="588" y="606" width="428" height="18" rx="9" fill="#6B6B6B"/>
+  <rect x="588" y="694" width="600" height="18" rx="9" fill="#6B6B6B"/>
+  <circle cx="292" cy="458" r="58" fill="#FEF3EC"/>
+  <rect x="244" y="552" width="176" height="18" rx="9" fill="#1A1A1A"/>
+  <rect x="244" y="594" width="132" height="18" rx="9" fill="#6B6B6B"/>
+  <text x="188" y="244" fill="#FAFAF7" font-family="Georgia, serif" font-size="64" font-weight="600">Recommendations</text>
+</svg>

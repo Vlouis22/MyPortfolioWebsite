@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./Hero.module.css";
-import heroImg from "../../assets/hero/me.png"
+const heroImg = "/favicon.png";
 
 export default function Hero() {
   return (
@@ -24,4 +24,3 @@ export default function Hero() {
     </section>
   );
 };
-
