@@ -7,8 +7,8 @@
   },
   "scripts": {
     "dev": "unset npm_config_user_agent npm_execpath npm_package_json npm_command npm_lifecycle_event npm_lifecycle_script npm_node_execpath; node ./node_modules/.bin/next dev --webpack",
-    "build": "unset npm_config_user_agent npm_execpath npm_package_json npm_command npm_lifecycle_event npm_lifecycle_script npm_node_execpath; node ./node_modules/.bin/next build --webpack",
-    "start": "unset npm_config_user_agent npm_execpath npm_package_json npm_command npm_lifecycle_event npm_lifecycle_script npm_node_execpath; node ./node_modules/.bin/next start",
+    "build": "next build",
+    "start": "next start",
     "lint": "eslint . --ext .ts,.tsx",
     "typecheck": "tsc --noEmit"
   },

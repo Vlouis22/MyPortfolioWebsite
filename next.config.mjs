@@ -6,7 +6,6 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 /** @type {import("next").NextConfig} */
 const nextConfig = {
   allowedDevOrigins: ["192.168.1.200"],
-  distDir: ".next-build",
   images: {
     formats: ["image/avif", "image/webp"],
   },
