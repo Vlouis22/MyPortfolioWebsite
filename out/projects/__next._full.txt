@@ -1,0 +1,130 @@
+1:"$Sreact.fragment"
+2:I[1661,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"Providers"]
+3:I[20004,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"PageTransitionProvider"]
+4:I[2874,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"Navbar"]
+5:I[20004,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"PageTransitionContent"]
+6:I[39756,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"default"]
+7:I[37457,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"default"]
+8:I[50431,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js","/_next/static/chunks/0k40gov7iuztj.js"],"ProjectFilterGrid"]
+12:I[68027,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"default",1]
+:HL["/_next/static/chunks/0oxkny-gt5d2c.css","style"]
+:HL["/_next/static/media/fraunces_latin_full_normal-s.p.16zze-ivwtw52.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/inter_latin_opsz_normal-s.p.0_ft~wyybd6c7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/jetbrains_mono_latin_wght_normal-s.p.0vxn4~1drecc4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+9:T458,
+## Overview
+
+CrisisLens was built to make breaking news more useful in the moment. Instead of stopping at headlines, the product turns a fast-moving crisis into something people can understand, track, and respond to in real time.
+
+![CrisisLens product interface](/images/projects/crisis-lens/CrisisLens.png)
+
+## What we built
+
+We combined an interactive globe, AI-generated summaries, impact analysis, and "what to watch next" guidance into one live experience. The product also included a personalized For You feed, multilingual summaries, and an in-app donation flow so users could support relief efforts without leaving the app.
+
+<Callout title="What made it strong">
+The most important part was that it felt like a real product, not just a weekend prototype. Every feature was meant to help someone understand a crisis and take the next useful step.
+</Callout>
+
+## Results
+
+We brought together Firebase, NewsAPI.ai, OpenAI, Google Maps geocoding, and Stripe into a product that connected awareness with action. It was one of those builds that proved product thinking matters just as much as shipping speed.
+a:T9bd,
+## Overview
+
+Investing still feels harder than it should for most people. Valuable information is spread across screeners, earnings reports, portfolio tools, and brokerage platforms, which makes the process slow, fragmented, and intimidating for many individual investors.
+
+I built TopTier Strategy to turn that experience into a clear product workflow. The web platform brings stock discovery, structured company research, portfolio construction, brokerage connected portfolio tracking, and long term performance monitoring into one system so users can move from an idea to a decision with far more clarity and confidence.
+
+![TopTier Strategy web platform concept](/images/projects/toptier-strategy-web/web-platform-preview.png)
+
+## What I built
+
+I designed and built the platform across the full stack. At the core is a five pillar research framework that evaluates a company across valuation, profitability, financial health, shareholder returns, and growth outlook. It transforms raw financial data into a structured research experience with clear scoring, financial statements, trend analysis, and concise bull and bear case summaries.
+
+I also built a portfolio builder that uses hedge fund holdings and user preferences to generate tailored portfolio ideas, along with dashboards for allocations, watchlists, projections, performance, and daily movement. To support the broader product, I integrated secure authentication, subscription billing, brokerage connectivity, background jobs, and shared data services so the experience feels cohesive from onboarding through ongoing portfolio management.
+
+On the technical side, the platform combines a React frontend with a Python and Flask backend, Firebase authentication, Firestore and Supabase data services, Redis backed infrastructure, Stripe billing, SnapTrade brokerage syncing, and AI assisted research workflows.
+
+<Callout title="Product focus">
+My goal was to make high quality investment research feel structured, approachable, and actionable. Every part of the product was designed to reduce cognitive load and help users understand what matters without jumping between disconnected tools.
+</Callout>
+
+## Results
+
+TopTier Strategy demonstrates my ability to take a complex financial workflow from concept to production and shape both the product strategy and the engineering behind it. It is a strong example of founder led product development, full stack execution, and thoughtful user experience design in a high trust domain.
+b:T856,
+## Overview
+
+TopTier Strategy Mobile was created to make serious investing workflows feel practical on a phone. Many investors want to research ideas, review portfolios, and monitor performance throughout the day, but most mobile experiences either feel too shallow or too cluttered to be genuinely useful.
+
+I built the mobile app to extend the core TopTier Strategy experience into a focused product that feels clear, responsive, and easy to navigate. Users can research a company quickly, review portfolio ideas, track watchlists and performance, and stay connected to their strategy without relying on a desktop workflow.
+
+![TopTier Strategy mobile app concept](/images/projects/toptier-strategy-mobile/app-store-preview.png)
+
+## What I built
+
+I built the app in React Native with Expo and Expo Router, connecting it to the same backend platform that powers the web product. The app includes structured research reports with business context, financial statements, ratios, profitability trends, growth trends, and clear bull and bear case summaries. It also includes portfolio builder flows, watchlist tools, performance dashboards, synced user data, notifications, and premium subscription support.
+
+From an engineering perspective, I implemented secure authentication, local persistence, data synchronization, Apple sign in, in app purchases, and a polished mobile interface optimized for fast repeat use. The initial launch focused on iOS, while the technical foundation supports a broader mobile footprint as the product grows.
+
+<Callout title="Product focus">
+I wanted the mobile experience to feel fast, trustworthy, and confidence building. The goal was to help users understand a company or check on their portfolio in moments that matter, without sacrificing depth, structure, or clarity.
+</Callout>
+
+## Results
+
+The mobile app proved that TopTier Strategy could extend beyond the web into a strong mobile experience without losing the quality of the underlying product. It highlights my ability to translate a complex platform into a focused mobile application that feels polished, useful, and ready for real world use.
+c:T417,
+## Overview
+
+Hornet Helper was built to help students find study partners, join open sessions, and get support more easily. I led a team of 3 and helped shape both the direction of the product and the final implementation.
+
+![Hornet Helper matching flow](/images/projects/hornet-helper/studybuddy.jpeg)
+
+## What I built
+
+I built the front end in React so students could browse and join study sessions in a simple way. We also added real time communication and an AI powered assistant that could help match students with study partners and provide on demand academic support.
+
+<Callout title="Why it mattered">
+Hornet Helper solved a real problem by making it fast and easy for students to find study support. By focusing on simplicity and speed, we created an experience students could use immediately, showing how the right features can drive real impact.
+</Callout>
+
+## Results
+
+The project won 1st place in a 15 team hackathon. More importantly, it showed how a focused product with the right features can create immediate value for students.
+d:T8ad,
+## Overview
+
+Dr. House is a research project focused on building an AI assisted clinical reasoning system that helps organize and interpret multiple forms of patient data in one workflow. Instead of treating symptoms, notes, lab results, medical images, and patient history as isolated inputs, the project brings them together into a single structured patient profile that can support faster and more informed clinical decision making.
+
+My work focused on the backend systems that make this possible. I built the pipeline that ingests clinical text, patient audio, health records, and laboratory data, processes each source with task specific models, and converts the results into a consistent structured profile that downstream reasoning components can use.
+
+![Dr. House architecture concept](/images/projects/clinical-text-agent/thumb.svg)
+
+## What I built
+
+I developed a modular backend architecture for multimodal clinical intake and information extraction. The system supports transcription for patient voice input, medical entity extraction from notes and records, summarization of clinical context, lab report parsing, normalization of results, abnormality detection, and schema based output generation. I also designed the fusion layer that combines information from different sources into a unified patient profile, creating the foundation for reasoning and explainable diagnosis in the larger Dr. House system.
+
+<Callout title="Why it mattered">
+What made this project valuable was that it went beyond calling models in isolation. The real challenge was designing a reliable backend that could coordinate different AI components, handle diverse medical inputs, preserve clinical structure, and produce outputs that were useful for a reasoning agent rather than just technically correct on their own.
+</Callout>
+
+## Results
+
+This project deepened my experience in applied AI backend engineering, multimodal systems design, structured data pipelines, and clinical information modeling. It represents my contribution to a broader vision for AI assisted healthcare tools that can help clinicians review complex patient information more efficiently and understand why certain diagnostic suggestions are being made.
+0:{"P":null,"c":["","projects",""],"q":"","i":false,"f":[[["",{"children":["projects",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0oxkny-gt5d2c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0q.l150wpuw0c.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/0ftfpvv79wowg.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/0d3shmwh5_nmn.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/16elyf7.ov~iw.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"className":"inter_2266cbe1-module___tpH7q__variable fraunces_e21324a2-module__Kh0m_G__variable jetbrainsmono_7e7ce78e-module__06Hfuq__variable","children":["$","body",null,{"className":"min-h-screen bg-bg text-fg antialiased","children":["$","$L2",null,{"children":["$","$L3",null,{"children":["$","div",null,{"className":"relative flex min-h-screen flex-col overflow-x-hidden","children":[["$","$L4",null,{}],["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-border","children":["$","div",null,{"className":"mx-auto flex w-full max-w-layout flex-wrap items-center gap-4 px-6 py-6 text-[0.875rem] text-muted md:px-12","children":["$","div",null,{"className":"flex flex-wrap items-center gap-4","children":[["$","span",null,{"children":"© 2026 Valery Louis"}],["$","a",null,{"href":"mailto:louisvalery2022@gmail.com","className":"text-link","children":"louisvalery2022@gmail.com"}],[["$","a","https://www.linkedin.com/in/valery-louis/",{"href":"https://www.linkedin.com/in/valery-louis/","target":"_blank","rel":"noreferrer","className":"text-link","children":"LinkedIn"}],["$","a","https://github.com/Vlouis22",{"href":"https://github.com/Vlouis22","target":"_blank","rel":"noreferrer","className":"text-link","children":"GitHub"}]]]}]}]}]]}]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[["$","div",null,{"className":"page-shell page-frame space-y-10 md:space-y-12","children":[["$","section",null,{"className":"max-w-prose space-y-4","children":[["$","p",null,{"className":"section-eyebrow","children":"Projects"}],["$","h1",null,{"className":"page-title","children":"Projects that reflect how I learn, lead, and build."}],["$","p",null,{"className":"lead","children":"These projects span web, mobile, AI, and systems work. Some came from hackathons, some from school, and some from independent product work, but all of them reflect the way I like to solve problems."}]]}],["$","$L8",null,{"projects":[{"title":"CrisisLens","slug":"crisis-lens","year":2026,"role":"Product Engineer, Hackathon Team","summary":"Built a crisis intelligence platform that turns breaking news into live context, impact analysis, and action.","tech":["Python","Flask","React","Firebase","OpenAI","Stripe","Geocoding","NewsAPI.ai","Git/Github"],"thumbnail":"/images/projects/crisis-lens/CrisisLens.png","featured":true,"liveUrl":"$undefined","repoUrl":"https://github.com/murayeeto/CrisisLens","order":1,"client":"Hackathon team","timeline":"24-hour build / 2026","body":"$9"},{"title":"TopTier Strategy Web Platform","slug":"toptier-strategy-web","year":2026,"role":"Founder, Full Stack Engineer","summary":"Built an end-to-end investment research and portfolio platform that helps investors discover companies, evaluate businesses, build portfolios, and track performance in one unified product.","tech":["React","Python","Flask","Api Integration","Auth","SQL","Stripe","Web Sockets","OpenAI","Gemini","Docker","Firebase","Firestore","Supabase","Redis","Git/Github"],"thumbnail":"/images/projects/toptier-strategy-web/web-platform-preview.png","featured":true,"liveUrl":"https://toptierstrategy.com","repoUrl":"$undefined","order":2,"client":"Independent product","timeline":"2025 to 2026","body":"$a"},{"title":"TopTier Strategy Mobile App","slug":"toptier-strategy-mobile","year":2026,"role":"Founder, Mobile Engineer","summary":"Built a mobile companion to TopTier Strategy that brings company research, portfolio building, and performance tracking into a fast and polished experience designed for everyday investors.","tech":["React Native","TypeScript","Expo","Firebase","TanStack Query","Web Sockets","OpenAI","Gemini","Docker","Android Studio","XCode","Git/Github","Expo Router"],"thumbnail":"/images/projects/toptier-strategy-mobile/app-store-preview.png","featured":true,"liveUrl":"https://apps.apple.com/us/app/toptier-strategy/id6761733894","repoUrl":"$undefined","order":3,"client":"Independent product","timeline":"2025 to 2026","body":"$b"},{"title":"Hornet Helper","slug":"hornet-helper","year":2025,"role":"Developer, Team Leader","summary":"Led a team of 3 to build a study group platform with AI features, winning 1st place in a 15 team hackathon.","tech":["React","JavaScript","Python","Flask","Auth","AI","Git/Github"],"thumbnail":"/images/projects/hornet-helper/studybuddy.jpeg","featured":true,"liveUrl":"$undefined","repoUrl":"https://github.com/murayeeto/HornetHelper/tree/main","order":4,"client":"Hackathon team","timeline":"Mar 2025 - Apr 2025","body":"$c"},{"title":"Dr. House","slug":"clinical-text-agent","year":2026,"role":"AI / Backend Developer","summary":"Built a multimodal AI backend that organizes clinical inputs into a structured patient profile for reasoning and explainable diagnosis.","tech":["Python","Whisper","ClinicalBERT","Medical T5","OCR","Pydantic","Git/Github"],"thumbnail":"/images/projects/clinical-text-agent/thumb.svg","featured":false,"liveUrl":"$undefined","repoUrl":"https://github.com/Vlouis22/inbreResearch","order":5,"client":"Research project","timeline":"Mar 2026","body":"$d"},{"title":"P2P File Synchronization","slug":"p2p-sync","year":2025,"role":"Team Leader","summary":"Led a team of 5 in developing a peer to peer file synchronization system using Python.","tech":["Python","Networking","Distributed Systems","Web Sockets","Git/Github"],"thumbnail":"/images/projects/p2p-sync/thumb.svg","featured":false,"liveUrl":"$undefined","repoUrl":"https://github.com/joewil08/p2p-file-synchronization-group-3","order":6,"client":"Academic team project","timeline":"2025","body":"\n## Overview\n\nThis project focused on building a peer to peer file synchronization system that could keep files consistent across multiple machines without relying on a central server.\n\n![P2P synchronization system diagram](/images/projects/p2p-sync/thumb.svg)\n\n## What I built\n\nI led a team of 5 and helped organize the system into clear pieces so we could work in parallel without losing track of how everything fit together. The project pushed me to think more carefully about coordination, state management, and debugging in distributed systems.\n\n<Callout title=\"What I learned\">\nThis was one of the projects that helped me become more comfortable leading a team through a technical problem with a lot of moving parts.\n</Callout>\n\n## Results\n\nWe delivered a working synchronization system in Python and gained a much stronger understanding of how distributed systems behave under real constraints.\n"},{"title":"HEIM Church Website","slug":"heim-church","year":2024,"role":"Developer","summary":"Designed and deployed the official HEIM Church website, supporting 100+ weekly users.","tech":["React","HTML","CSS","JavaScript","Api Integration","Git/Github"],"thumbnail":"/images/projects/heim-church/heim-church-site.png","featured":false,"liveUrl":"https://heimchurch.org/","repoUrl":"https://github.com/Vlouis22/HeimChurch","order":7,"client":"HEIM Church","timeline":"Dec 2024 - Present","body":"\n## Overview\n\nI built the official HEIM Church website to give the church a stronger online presence and a better experience for both regular members and first time visitors.\n\n![HEIM Church website homepage](/images/projects/heim-church/heim-church-site.png)\n\n## What I built\n\nThe site includes multilingual support, live streaming access, and secure payments. I focused on responsiveness and made sure the experience worked well across phones, tablets, and desktops.\n\n<Callout title=\"Focus\">\nMy goal was to make the site feel welcoming, easy to navigate, and useful for each and everyone at the church.\n</Callout>\n\n## Results\n\nThe website supports 100+ weekly users and helped improve engagement and accessibility. I also optimized performance and reduced load times by 40 percent across devices.\n"},{"title":"Automated Job Recommendation System","slug":"job-recommendation","year":2025,"role":"Developer","summary":"Developed an AI powered job recommendation system with automated scraping and personalized recommendations.","tech":["Python","AI","SQL","Web Scraping","Git/Github"],"thumbnail":"/images/projects/job-recommendation/thumb.svg","featured":false,"liveUrl":"$undefined","repoUrl":"https://github.com/LifeIsPeace/AIJobAggregatorAndMatcher","order":8,"client":"Independent project","timeline":"2025","body":"\n## Overview\n\nI built this project to explore how automation and AI could improve the job search experience by collecting listings, organizing them, and surfacing more relevant opportunities.\n\n![Job recommendation system interface](/images/projects/job-recommendation/thumb.svg)\n\n## What I built\n\nThe system used automated scraping and recommendation logic to help users discover roles that better matched their interests. I focused on building a pipeline that made the data easier to work with and more useful for personalized suggestions.\n\n<Callout title=\"Takeaway\">\nThis project showed me that recommendation quality depends a lot on clean data and thoughtful filtering, not just the model itself.\n</Callout>\n\n## Results\n\nThe project gave me more experience with AI powered workflows, data handling, and building software that helps users make better decisions.\n"}],"techTags":["AI","Android Studio","Api Integration","Auth","ClinicalBERT","CSS","Distributed Systems","Docker","Expo","Expo Router","Firebase","Firestore","Flask","Gemini","Geocoding","Git/Github","HTML","JavaScript","Medical T5","Networking","NewsAPI.ai","OCR","OpenAI","Pydantic","Python","React","React Native","Redis","SQL","Stripe","Supabase","TanStack Query","TypeScript","Web Scraping","Web Sockets","Whisper","XCode"]}]]}],["$Le"],"$Lf"]}],{},null,false,null]},null,false,"$@10"]},null,false,null],"$L11",false]],"m":"$undefined","G":["$12",["$L13"]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Z_V8T5iMtFtKOp9d2z2hM"}
+14:I[97367,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:I[97367,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"ViewportBoundary"]
+1a:I[97367,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"MetadataBoundary"]
+e:["$","script","script-0",{"src":"/_next/static/chunks/0k40gov7iuztj.js","async":true,"nonce":"$undefined"}]
+f:["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]
+17:[]
+10:"$W17"
+11:["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","div",null,{"hidden":true,"children":["$","$L1a",null,{"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]
+13:["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0oxkny-gt5d2c.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#FAFAF7","media":"(prefers-color-scheme: light)"}],["$","meta","3",{"name":"theme-color","content":"#0E0E0C","media":"(prefers-color-scheme: dark)"}]]
+1c:I[27201,["/_next/static/chunks/0q.l150wpuw0c.js","/_next/static/chunks/0ftfpvv79wowg.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/16elyf7.ov~iw.js"],"IconMark"]
+16:null
+1b:[["$","title","0",{"children":"Projects | Valery Louis"}],["$","meta","1",{"name":"description","content":"Projects by Valery Louis across web development, AI, and systems work."}],["$","meta","2",{"name":"application-name","content":"Valery Louis"}],["$","link","3",{"rel":"shortcut icon","href":"/favicon.ico"}],["$","link","4",{"rel":"icon","href":"/favicon.png","type":"image/png"}],["$","link","5",{"rel":"icon","href":"/favicon.ico"}],["$","link","6",{"rel":"apple-touch-icon","href":"/favicon.png"}],["$","$L1c","7",{}]]

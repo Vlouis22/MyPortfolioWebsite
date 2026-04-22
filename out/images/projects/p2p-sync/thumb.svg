@@ -1,0 +1,20 @@
+<svg width="1440" height="1080" viewBox="0 0 1440 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1080" rx="48" fill="#FAFAF7"/>
+  <rect x="120" y="120" width="1200" height="840" rx="40" fill="#FFFFFF" stroke="#E8E6E1" stroke-width="2"/>
+  <rect x="200" y="180" width="340" height="84" rx="24" fill="#1A1A1A"/>
+  <rect x="576" y="180" width="300" height="24" rx="12" fill="#6B6B6B"/>
+  <rect x="576" y="224" width="224" height="24" rx="12" fill="#6B6B6B"/>
+  <path d="M364 492L720 362" stroke="#C2410C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M364 492L600 790" stroke="#C2410C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M720 362L1050 500" stroke="#C2410C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M600 790L1050 500" stroke="#C2410C" stroke-width="12" stroke-linecap="round"/>
+  <path d="M600 790L1108 786" stroke="#C2410C" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="364" cy="492" r="116" fill="#FEF3EC"/>
+  <circle cx="720" cy="362" r="96" fill="#F3F1EC"/>
+  <circle cx="600" cy="790" r="108" fill="#F3F1EC"/>
+  <circle cx="1050" cy="500" r="124" fill="#FEF3EC"/>
+  <circle cx="1108" cy="786" r="84" fill="#1A1A1A"/>
+  <text x="274" y="522" fill="#1A1A1A" font-family="Georgia, serif" font-size="56" font-weight="600">Peer</text>
+  <text x="666" y="390" fill="#1A1A1A" font-family="Georgia, serif" font-size="44" font-weight="600">Sync</text>
+  <text x="528" y="818" fill="#1A1A1A" font-family="Georgia, serif" font-size="44" font-weight="600">State</text>
+</svg>

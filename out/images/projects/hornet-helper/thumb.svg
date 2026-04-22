@@ -1,0 +1,13 @@
+<svg width="1440" height="1080" viewBox="0 0 1440 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1080" rx="48" fill="#FAFAF7"/>
+  <rect x="112" y="112" width="1216" height="856" rx="40" fill="#FFFFFF" stroke="#E8E6E1" stroke-width="2"/>
+  <rect x="176" y="172" width="420" height="148" rx="28" fill="#1A1A1A"/>
+  <rect x="176" y="364" width="236" height="236" rx="32" fill="#FEF3EC"/>
+  <rect x="440" y="364" width="236" height="236" rx="32" fill="#F3F1EC"/>
+  <rect x="704" y="172" width="560" height="428" rx="36" fill="#F3F1EC"/>
+  <path d="M176 726C308 654 408 634 476 666C536 696 588 778 704 778C826 778 900 676 1018 676C1100 676 1184 722 1264 814" stroke="#C2410C" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="476" cy="666" r="30" fill="#C2410C"/>
+  <circle cx="704" cy="778" r="30" fill="#C2410C"/>
+  <circle cx="1018" cy="676" r="30" fill="#C2410C"/>
+  <text x="184" y="262" fill="#FAFAF7" font-family="Georgia, serif" font-size="72" font-weight="600">Hornet Helper</text>
+</svg>

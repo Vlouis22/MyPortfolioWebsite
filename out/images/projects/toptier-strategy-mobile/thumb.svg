@@ -1,0 +1,40 @@
+<svg width="1600" height="1200" viewBox="0 0 1600 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1200" fill="#0A1015"/>
+  <rect width="1600" height="1200" fill="url(#bg)"/>
+  <circle cx="1224" cy="220" r="280" fill="#34D399" opacity="0.16"/>
+  <circle cx="322" cy="932" r="250" fill="#38BDF8" opacity="0.11"/>
+  <rect x="546" y="82" width="510" height="1036" rx="64" fill="#05080C"/>
+  <rect x="568" y="106" width="466" height="988" rx="48" fill="rgba(12,20,29,0.96)" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <rect x="710" y="136" width="180" height="10" rx="5" fill="rgba(255,255,255,0.16)"/>
+  <rect x="620" y="192" width="136" height="16" rx="8" fill="#F8FAFC"/>
+  <rect x="620" y="234" width="220" height="12" rx="6" fill="rgba(248,250,252,0.46)"/>
+  <rect x="620" y="286" width="362" height="198" rx="30" fill="rgba(255,255,255,0.05)"/>
+  <path d="M654 430L724 380L792 392L860 334L926 354" stroke="#34D399" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="926" cy="354" r="10" fill="#34D399"/>
+  <rect x="620" y="526" width="170" height="164" rx="26" fill="rgba(255,255,255,0.05)"/>
+  <rect x="826" y="526" width="170" height="164" rx="26" fill="rgba(255,255,255,0.05)"/>
+  <rect x="654" y="566" width="86" height="12" rx="6" fill="#F8FAFC"/>
+  <rect x="654" y="604" width="106" height="12" rx="6" fill="rgba(248,250,252,0.48)"/>
+  <rect x="860" y="566" width="74" height="12" rx="6" fill="#F8FAFC"/>
+  <rect x="860" y="604" width="94" height="12" rx="6" fill="rgba(248,250,252,0.48)"/>
+  <rect x="620" y="732" width="376" height="276" rx="30" fill="rgba(255,255,255,0.05)"/>
+  <rect x="654" y="782" width="148" height="16" rx="8" fill="#F8FAFC"/>
+  <rect x="654" y="826" width="210" height="12" rx="6" fill="rgba(248,250,252,0.46)"/>
+  <rect x="654" y="886" width="308" height="24" rx="12" fill="rgba(56,189,248,0.14)"/>
+  <rect x="654" y="928" width="270" height="24" rx="12" fill="rgba(52,211,153,0.14)"/>
+  <rect x="654" y="970" width="286" height="24" rx="12" fill="rgba(245,158,11,0.14)"/>
+  <rect x="112" y="240" width="330" height="210" rx="30" fill="rgba(255,255,255,0.05)"/>
+  <rect x="1180" y="610" width="300" height="230" rx="30" fill="rgba(255,255,255,0.05)"/>
+  <text x="122" y="300" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Research any company</text>
+  <text x="122" y="346" fill="rgba(248,250,252,0.7)" font-family="Inter, Arial, sans-serif" font-size="22">Deep analysis, instantly.</text>
+  <text x="1188" y="680" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">Track everything</text>
+  <text x="1188" y="726" fill="rgba(248,250,252,0.7)" font-family="Inter, Arial, sans-serif" font-size="22">All your investments, unified.</text>
+  <text x="164" y="1086" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="72" font-weight="700">TopTier Strategy Mobile</text>
+  <text x="166" y="1138" fill="rgba(248,250,252,0.72)" font-family="Inter, Arial, sans-serif" font-size="28" letter-spacing="4">IN-DEPTH RESEARCH ON THE GO</text>
+  <defs>
+    <linearGradient id="bg" x1="142" y1="92" x2="1458" y2="1120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12202A"/>
+      <stop offset="1" stop-color="#0A1015"/>
+    </linearGradient>
+  </defs>
+</svg>
